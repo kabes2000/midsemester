@@ -1,0 +1,153 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.divgeneral{
+  /*border: 1px solid red;*/
+  width:80%;
+  margin-left: 10%;
+  padding: 5px;
+  background-color:saddlebrown;
+  float: left;
+}
+.divlogo{
+  border-bottom:2px solid black;
+  float: left;
+  width: 100%;
+
+
+}
+.imglogo{
+  /*border: 1px solid blue;*/
+  float:left;
+}
+
+nav{
+  /*border: 1px solid red;*/
+  width:83%;
+  float:left;
+  text-align: right;
+  padding-top: 70px;
+}
+
+nav ul li{
+  list-style:lower-greek;
+  display:inline;
+  margin-left:10px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color:black;
+  font-size: 19px;
+}
+
+nav ul li:hover{
+  border:1px dotted red;
+  background-color:black;
+  padding:5px;
+  border-radius:10px;
+}
+
+nav ul li a:hover{
+   color:white;
+   font-family: cursive;
+}
+
+
+.divBannier{
+  /*border: 1px solid red;*/
+  float: left;
+  padding:17px;
+
+}
+
+
+.divContenu{
+  /*border: 1px solid red;*/
+  border-bottom: 2px solid black;
+  float: left;
+  padding:5px;
+
+}
+
+.contenuGauche{
+  /*border: 1px solid black;*/
+  width:68%;
+  float: left;
+}
+
+.contenuGauche p{
+  margin-bottom:15px;
+}
+.contenuGauche h1{
+  margin-bottom:15px;
+}
+
+.contenuDroit{
+  /*border: 1px solid black;*/
+  width: 30%;
+  float: left;
+  background-color: gray;
+  color:white;
+  padding:5px;
+}
+
+.contenuDroit h1{
+  font-size:19px;
+  margin-bottom: 10px;
+}
+.poupe{
+  margin-left:70px;
+}
+
+.contenuDroit p{
+  margin-bottom: 10px;
+}
+
+.sousimg{
+  margin-left: 10px;
+}
+
+
+.divFooter{
+  /*border: 1px solid red;*/
+  float: left;
+  width:100%;
+}
+
+
+.footer1{
+  /*border: 1px solid red;*/
+  width:22%;
+  float: left;
+}
+.footer2{
+/*border: 1px solid red;*/
+width:40%;
+float: left;
+}
+.footer3{
+/*border: 1px solid red;*/
+width:18%;
+float: left;
+}
+.footer4{
+/*border: 1px solid red;*/
+width:18%;
+float: left;
+}
+
+
+.h1Blog{
+  color:blue;
+  padding:10px;
+}
+
+.paraBlog{
+  margin-bottom: 15px;
+  text-align: justify;
+  width:90%;
+}
